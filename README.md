@@ -1,7 +1,7 @@
 # Mode7
 This is my implementation of mode 7(pseudo 3d floor) that was made by Nintendo
 I made this in 5 days for LowRezJam 2022, but couldn't finish the jam, so I uploaded only this😁
-Everything is written in Python and pygame, so pretty unoptimized, it runs at 90 fps on (64, 64) resolution
+Everything is written in Python and pygame, it's pretty unoptimized, it runs at 90 fps on (64, 64) resolution
 Maybe when I learn C I will optimize it🤫
 
 Here is the demo!
